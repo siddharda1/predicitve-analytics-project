@@ -1,5 +1,6 @@
 # predicitve-analytics-project
 predicts the output
-The project code of predictive analysis
+The project code of predictive analytics
+
 
 ...
